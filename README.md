@@ -1,5 +1,5 @@
 
-# Credit Default Prediction using Logistic Regression and XGBoost
+# Credit Default Prediction
 
 This repository walks through the full process of:
 - Exploring a real-world credit dataset
